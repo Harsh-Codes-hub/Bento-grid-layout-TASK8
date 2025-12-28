@@ -29,11 +29,12 @@ Experience a clean, editorial-style AI landing page with balanced content blocks
 ---
 
 ## 🗂️ File Structure
-```
+```bash
 bento-grid-layout-task8/
 │
 ├── index.html        # Main HTML structure
 ├── style.css         # Compiled CSS (from SCSS)
+├── style.scss        # SCSS code containing all Styles
 │
 ├── /fonts/           # Custom variable fonts
 │   ├── Inter-VariableFont.woff2
@@ -50,6 +51,8 @@ bento-grid-layout-task8/
 │   ├── favicon-32x32.png
 │   ├── apple-touch-icon.png
 │   └── site.webmanifest
+│
+├── preview.webp      # Preview image of the page
 │
 └── README.md         # Project documentation
 
