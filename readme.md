@@ -104,7 +104,7 @@ bento-grid-layout-task8/
 
 *AICERA Bento Grid Landing Page — showcasing navigation, hero message, imagery, and sponsor section.*
 
-![AICERA - Bento Grid Preview](./preview.png)
+![AICERA - Bento Grid Preview](./preview.webp)
 
 ---
 
